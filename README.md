@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-priority: master
-=======
-priority: coolstuff
->>>>>>> coolstuff
-READ THIS VERY CAREFULLY
+user 1 says hi
